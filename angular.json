@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "alura-angular-byteBank"
+    }
+  },
+  "defaultProject": "alura-angular-byteBank",
+  "cli": {
+    "analytics": false
+  }
 }
